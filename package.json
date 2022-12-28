@@ -1,0 +1,31 @@
+{
+  "name": "trp_sdi_rep_gen_tool",
+  "version": "1.0.0",
+  "description": "Tools to generate SDI replication tasks",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SAP-TRP/TRP_SDI_REP_GEN_TOOL.git"
+  },
+  "keywords": [
+    "replication tasks",
+    "SDI",
+    "generation"
+  ],
+  "author": "SAP TRP team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SAP-TRP/TRP_SDI_REP_GEN_TOOL/issues"
+  },
+  "homepage": "https://github.com/SAP-TRP/TRP_SDI_REP_GEN_TOOL#readme",
+  "dependencies": {
+    "@sap/hana-client": "^2.15.17",
+    "fs": "0.0.1-security",
+    "fs-extra": "^11.1.0",
+    "xml-js": "^1.6.11"
+  }
+}
