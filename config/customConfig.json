@@ -1,0 +1,12 @@
+[
+    {
+        "logisticSystemHost":"<logisticSystemHost>",
+        "instanceNumber":"<instanceNumber>",
+        "schema":"<schema>",
+        "databaseName":"<databaseName>",
+        "user":"<user>",
+        "pwd":"<pwd>",
+        "RemoteSourceName": "<RemoteSourceName>",
+        "logisticSystemName":"<logisticSystemName>"        
+    }
+]
